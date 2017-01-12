@@ -1,0 +1,16 @@
+{
+    "title": "Hello World 你好 世界",
+    "description": "Zxlon 若有光芒，必有远方",
+    "isbn": "978-3-16-148410-0",
+    "language": "zh-tw",
+    "direction": "ltr"
+}
+
+{
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "hello-world-3"
+        }
+    }  
+}
